@@ -1,1 +1,1 @@
-Repostiroy for the Unity Farming Game
+Repository for the Unity Farming Game
